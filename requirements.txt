@@ -1,0 +1,8 @@
+numpy>=1.23
+pandas>=1.5
+matplotlib>=3.6
+seaborn>=0.12
+scikit-learn>=1.2
+tensorflow>=2.11
+streamlit>=1.22
+pickle5; python_version < "3.8"
